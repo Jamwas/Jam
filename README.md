@@ -1,6 +1,6 @@
 # Jam
 pro cloner
-<b></b> </br> <br> [![Facebook](https://img.shields.io/badge/Facebook-Mr.NIKI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/NIKI.CYBER404.OFFICIALS)<br> [![WhatsApp](https://img.shields.io/badge/WhatsApp-Mr.NIKI-blue?style=flat-square&logo=WhatsApp)](https://chat.whatsapp.com/IulgtTY1ao6HeowtyCFEGJ)
+<b></b> </br> <br> [![Facebook](https://img.shields.io/badge/Facebook-Mr.NIKI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/NIKI.CYBER404.OFFICIALS)<br> [![WhatsApp](https://img.shields.io/badge/WhatsApp-Mr.NIKI-blue?style=flat-square&logo=WhatsApp)](https://chat.whatsapp.com/H7u8oZfCdXyAQougsg3Crt)
 
 <h1 align="center"> ERROR PROBLEM FIXED </h1>
 
